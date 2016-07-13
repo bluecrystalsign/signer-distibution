@@ -1,0 +1,1 @@
+Os arquivos windos fora do pacote do instalador
