@@ -12,7 +12,7 @@
 	sudo groupadd tomcat
 	sudo useradd -s /bin/false -g tomcat -d /opt/tomcat tomcat
 	cd ~
-	wget http://www-eu.apache.org/dist/tomcat/tomcat-8/v8.0.36/bin/apache-tomcat-8.0.36.tar.gz
+	wget http://www-us.apache.org/dist/tomcat/tomcat-8/v8.0.37/bin/apache-tomcat-8.0.37.tar.gz
 	#
 	sudo mkdir /opt/tomcat
 	sudo tar xvf apache-tomcat-8*tar.gz -C /opt/tomcat --strip-components=1
